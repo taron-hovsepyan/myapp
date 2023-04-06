@@ -7,6 +7,7 @@ import NotFound from "./components/notFound";
 import {BrowserRouter, Route, Routes} from 'react-router-dom'
 
 const App = () => {
+  console.log('')
   return (
     <BrowserRouter>
     <div>
